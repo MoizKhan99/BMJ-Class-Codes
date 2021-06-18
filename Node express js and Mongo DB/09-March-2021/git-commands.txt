@@ -1,0 +1,24 @@
+version controling system + collaboration
+
+
+git init -> Initialize empty git repo locally
+
+git add filename -> to control untrack files (new file) and modification 
+
+git commit -m "message" -> to create commit in git history
+
+git branch -> show all current branchs
+
+git branch branchName -> to create new branch
+
+git branch -d branchName -> to remove branch
+
+git merge branchName -> to merge different branch with current one
+
+git clone githubURL
+
+git remote add origin githubURL
+
+git pull origin branchName -> fetch lateast changes from github
+
+git push origin branchName -> upload lateast changes to github
